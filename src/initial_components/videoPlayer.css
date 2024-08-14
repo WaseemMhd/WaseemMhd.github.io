@@ -1,0 +1,17 @@
+/* .close-button {
+  position: absolute !important;
+  top: 10% !important;
+  right: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  background-color: rgb(0, 114, 105);
+} */
+
+@media screen and (max-width: 640px) {
+  .close-button {
+    position: absolute !important;
+    top: 10% !important;
+    right: 40% !important;
+    transform: translate(-50%, -50%) !important;
+    background-color: rgb(0, 114, 105);
+  }
+}
